@@ -10,7 +10,7 @@ main:
   #   url: /teaching/    
     
   - title: "About me"
-    url: /aboutme/
+    url: /
         
   - title: "Research"
     url: /research/
