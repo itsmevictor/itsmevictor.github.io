@@ -5,4 +5,4 @@ permalink: /research/
 author_profile: true
 ---
 
-This page is in construction… come back later!
+I will update this once I have a first publication or working paper. Stay tuned!
