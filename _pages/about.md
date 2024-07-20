@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year PhD student at UCL's Department of Political Science! 
+I am a first year PhD student at UCL's Department of Political Science. 
 
 My research interests revolve around questions of immigration, integration and political behaviour, particularly in France. I am also very interested in advanced quantitative methods, both for experimental and quasi-experimental causal inference.
 
