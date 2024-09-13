@@ -28,7 +28,7 @@ author:
   location         : "London / Paris"
   employer         : "University College London"
   uri              : # URL
-  email            : "victor.kreitmann@sciencespo.fr" 
+  # email            : "victor.kreitmann@sciencespo.fr" 
 
   # Academic websites
   # arxiv            : # URL - Update with the correct link to your profile
